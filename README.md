@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm La-Sian!</h1>
+
 # 💫 About Me:
 I'm a Full-Stack Developer from the Midlands, UK!<br><br>🎓 Currently a School of Code student,  learning full stack development.<br><br>🚀 Adding to my tech stack weekly via sprints and hackathons.<br><br><br>
 
