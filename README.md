@@ -13,10 +13,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=la-sian&show_icons=true&locale=en&layout=compact" alt="la-sian" /></p>
 
-------------------------------
-#Connect with me
-<p align="left"> <a href="https://www.linkedin.com/in/james-codes/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
-
 
 <!--
 **La-Sian/La-Sian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
